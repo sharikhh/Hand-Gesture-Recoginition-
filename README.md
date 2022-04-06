@@ -42,11 +42,10 @@ Here we can see the accuracy of the model
 For the Live Demonstration I have used the DJI Tello Drone.This Drone is used for Drone educational purposes and is easy to program.The DJI Tello drone has its own python package which makes it easy to control the drone and doesn’t require to code a lot.The demo of this Project Has been recorded Since the drone has to be connected to the computer via Wi-Fi.
 
 ![image](https://user-images.githubusercontent.com/73626462/162005490-6f4a661f-96d6-4a59-8195-86687f43d521.png)
+
 Here is the Drone
 
-
-
-
+https://user-images.githubusercontent.com/73626462/162007233-e6e569a7-9148-497d-b6c5-9e826b8ef7ca.mp4
 
 
 
