@@ -18,6 +18,6 @@ Gestures have been used from the pre-historic period right from the stone age an
 After recording the gestures, I will train the gesture by using LSTM.After training the model on the network with the highest accuracy seeing the results in real world application  
 
 ## Workflow
-![image](https://user-images.githubusercontent.com/73626462/161989409-04614966-54c2-4828-9df8-f967c9df41cf.png)
+![image](https://user-images.githubusercontent.com/73626462/161989537-3a81f963-d871-4849-892b-e2abfc10d03b.png)
 
 
