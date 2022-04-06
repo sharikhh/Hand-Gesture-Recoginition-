@@ -27,5 +27,20 @@ Here the Data has not been taken from any online source but it has been generate
 
 ![image](https://user-images.githubusercontent.com/73626462/161999953-e53f96b4-2907-4719-b5dd-5c214900d45a.png)
 
+## Network on which the data will be trained
+Here I have created my own network. For gesture recognition In the Network, I have used LSTM layers.The reason I have used LSTM layers is that it has long-term dependencies as it does not forget the things learned from the previous data.This is the network which I have made to train the data on.
+
+![image](https://user-images.githubusercontent.com/73626462/162001439-bb0936f2-eb99-462a-832d-4473970f1acf.png)
+
+## Accuracy of the model 
+Here we can see the accuracy of the model
+
+![image](https://user-images.githubusercontent.com/73626462/162001574-4cc9144d-eb76-4090-9e40-0b53861a77cf.png)
+
+
+
+
+
+
 
 
