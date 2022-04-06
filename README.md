@@ -47,6 +47,8 @@ Here is the Drone
 
 https://user-images.githubusercontent.com/73626462/162007233-e6e569a7-9148-497d-b6c5-9e826b8ef7ca.mp4
 
+And this the live working of the Drone
+
 
 
 
