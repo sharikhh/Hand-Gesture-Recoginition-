@@ -17,6 +17,7 @@ Today in the world of evolving technology everything is becoming from real to vi
 Gestures have been used from the pre-historic period right from the stone age and  it is the basic form of human interaction without words,However nowadays we interact more with machines rather than people so, therefore, to make our interactions easy with the machine is the goal of this project.These gestures should be able to communicate with all kinds of machines right from radio to computer and going further ahead with Augmented reality and Virtual reality.The gestures are a very important application in virtual reality like Metaverse because objects like the mouse, keyboard, and joystick become inefficient and cumbersome.Thus giving rise to a new kind of human-computer interaction.In this project, I will use MediaPipe and OpenCV to record the gestures and create the data.The gesture would be recorded for 30 frames only.
 After recording the gestures, I will train the gesture by using LSTM.After training the model on the network with the highest accuracy seeing the results in real world application  
 
-![image](https://user-images.githubusercontent.com/73626462/161986622-8763f1b4-8db9-47b0-8bd5-44fe09ae8170.png)
+## Workflow
+![image](https://user-images.githubusercontent.com/73626462/161989409-04614966-54c2-4828-9df8-f967c9df41cf.png)
 
 
