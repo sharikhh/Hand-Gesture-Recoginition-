@@ -26,7 +26,14 @@ Here the Data has not been taken from any online source but it has been generate
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/73626462/161993915-5773a372-695a-444a-908b-a2a885568fa7.gif)
 
+The gestures are 
+
+![image](https://user-images.githubusercontent.com/73626462/163742931-2d8c2005-0a73-439b-9be4-c468ee4e5c4a.png)
+
+
 ![image](https://user-images.githubusercontent.com/73626462/161999953-e53f96b4-2907-4719-b5dd-5c214900d45a.png)
+
+
 
 ## 4 Network on which the data will be trained
 Here I have created my own network. For gesture recognition In the Network, I have used LSTM layers.The reason I have used LSTM layers is that it has long-term dependencies as it does not forget the things learned from the previous data.This is the network which I have made to train the data on.
