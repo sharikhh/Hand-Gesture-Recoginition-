@@ -30,6 +30,8 @@ The gestures are
 
 ![image](https://user-images.githubusercontent.com/73626462/163742931-2d8c2005-0a73-439b-9be4-c468ee4e5c4a.png)
 
+These gestures are stored in their respective folders
+
 
 ![image](https://user-images.githubusercontent.com/73626462/161999953-e53f96b4-2907-4719-b5dd-5c214900d45a.png)
 
