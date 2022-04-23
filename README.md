@@ -1,4 +1,4 @@
-# Hand Sign Recognition 
+# Hand Gesture Recognition 
 
 The inspiration of this project was actually from my favourite hero Iron Man.This was is in Iron Man 3 where he calls his suit with Hand Sign and  that is what gave me the IDEA!!!.
 
